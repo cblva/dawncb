@@ -379,7 +379,7 @@ h5,
   font-weight: var(--font-heading-weight);
   letter-spacing: calc(var(--font-heading-scale) * 0.06rem);
   color: rgb(var(--color-foreground));
-  line-height: calc(0.7 + 0.3 / max(1, var(--font-heading-scale)));
+  line-height: calc(0.5 + 0.3 / max(1, var(--font-heading-scale)));
 }
 
 .h0 {
