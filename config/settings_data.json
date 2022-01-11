@@ -7,8 +7,8 @@
     "colors_outline_button_labels": "#121212",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#F3F3F3",
-    "type_header_font": "assistant_n4",
-    "type_body_font": "assistant_n4",
+    "type_header_font": "electra_n7",
+    "type_body_font": "catamaran_n3",
     "page_width": "1200",
     "sections": {
       "announcement-bar": {
@@ -17,7 +17,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome to our store",
+              "text": "FREE SHIPPING ON ALL ORDERS OVER $50",
               "color_scheme": "background-1",
               "link": ""
             }
