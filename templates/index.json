@@ -145,13 +145,6 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "crimson-surf",
-            "second_image": false
-          }
-        },
         "video": {
           "type": "video",
           "settings": {
@@ -160,16 +153,23 @@
             "image_padding": false
           }
         },
+        "product": {
+          "type": "product",
+          "settings": {
+            "product": "crimson-surf",
+            "second_image": false
+          }
+        },
         "collection": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "frontpage"
           }
         }
       },
       "block_order": [
-        "product",
         "video",
+        "product",
         "collection"
       ],
       "settings": {
