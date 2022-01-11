@@ -10,6 +10,16 @@
     "type_header_font": "electra_n7",
     "type_body_font": "catamaran_n3",
     "page_width": "1200",
+    "card_style": "card",
+    "card_color_scheme": "background-1",
+    "badge_sold_out_color_scheme": "background-1",
+    "social_twitter_link": "#",
+    "social_facebook_link": "#",
+    "social_pinterest_link": "#",
+    "social_instagram_link": "#",
+    "social_tiktok_link": "#",
+    "social_youtube_link": "#",
+    "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -63,13 +73,13 @@
           "footer-1"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-1",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
-          "show_social": false,
-          "enable_country_selector": true,
-          "enable_language_selector": true,
-          "payment_enable": true
+          "show_social": true,
+          "enable_country_selector": false,
+          "enable_language_selector": false,
+          "payment_enable": false
         }
       }
     },
