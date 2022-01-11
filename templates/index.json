@@ -148,7 +148,7 @@
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "crimson-surf",
             "second_image": false
           }
         },
