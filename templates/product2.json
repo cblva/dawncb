@@ -34,9 +34,6 @@
         },
         "description": {
           "type": "description"
-        },
-        "share": {
-          "type": "share"
         }
       },
       "block_order": [
@@ -47,8 +44,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "share"
+        "description"
       ]
     },
     "product-recommendations": {
