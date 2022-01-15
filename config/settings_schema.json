@@ -4,8 +4,8 @@
     "theme_name": "DawnCB",
     "theme_version": "1.0",
     "theme_author": "CB",
-    "theme_documentation_url": "tbd",
-    "theme_support_url": "tbd"
+    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn",
+    "theme_support_url": "https:\/\/support.shopify.com\/"
   },
   {
     "name": "t:settings_schema.colors.name",
