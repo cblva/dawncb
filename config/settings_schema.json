@@ -2,10 +2,10 @@
   {
     "name": "theme_info",
     "theme_name": "DawnCB",
-    "theme_version": "2.5.0",
-    "theme_author": "Shopify",
-    "theme_documentation_url": "https:\/\/help.shopify.com\/manual\/online-store\/themes\/os20\/themes-by-shopify\/dawn",
-    "theme_support_url": "https:\/\/support.shopify.com\/"
+    "theme_version": "1.0",
+    "theme_author": "CB",
+    "theme_documentation_url": "tbd",
+    "theme_support_url": "tbd"
   },
   {
     "name": "t:settings_schema.colors.name",
@@ -43,6 +43,17 @@
         "id": "gradient_accent_2",
         "type": "color_background",
         "label": "t:settings_schema.colors.settings.gradient_accent_2.label"
+      },
+      {
+        "type": "color",
+        "id": "colors_accent_3",
+        "default": "#f9ca24",
+        "label": "t:settings_schema.colors.settings.colors_accent_3.label"
+      },
+      {
+        "id": "gradient_accent_3",
+        "type": "color_background",
+        "label": "t:settings_schema.colors.settings.gradient_accent_3.label"
       },
       {
         "type": "header",
